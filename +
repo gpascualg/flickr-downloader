@@ -1,0 +1,14 @@
+# This is a combination of 4 commits.
+# The first commit's message is:
+Added script and requirements
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# rebase in progress; onto 3fc80ec
+# You are currently editing a commit while rebasing branch 'master' on '3fc80ec'.
+#
+# Changes to be committed:
+#	modified:   README.md
+#	new file:   flickrDownloader.py
+#	new file:   requirements.txt
+#
